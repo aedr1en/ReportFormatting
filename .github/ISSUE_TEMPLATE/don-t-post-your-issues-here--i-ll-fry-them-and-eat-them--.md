@@ -9,4 +9,5 @@ assignees: ''
 
 THIS ISNT THE REPO YOU DESIRE. BEGONE
 
-# **[SKELETON DIVINE DEATH BLAST](https://files.catbox.moe/48mbui.jpg)**
+# **SKELETON DIVINE DEATH BLAST**
+https://files.catbox.moe/48mbui.jpg
